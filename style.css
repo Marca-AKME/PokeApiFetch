@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body{
+      background-image: url(/14721.jpg);
+      background-repeat: no-repeat;
+      background-position-y: 10%;
+      background-size: cover;
+  }
