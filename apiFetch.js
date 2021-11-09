@@ -49,7 +49,7 @@ fetch(url)
                             |
                             </p>
                             <a target="_blank"
-                            href="https://www.pokemon.com/es/pokedex/bulbasaur" class="btn btn-primary">Go Pokedex</a>
+                            href="https://www.pokemon.com/es/pokedex/${namePOKE}" class="btn btn-primary">Go Pokedex</a>
                             </div>
                         </div>
                         </div>
