@@ -3,8 +3,17 @@
   }
 
   body{
-      background-image: url(/14721.jpg);
+      background-image: url('./14721.jpg');
       background-repeat: no-repeat;
-      background-position-y: 10%;
+      background-position: center;
       background-size: cover;
+
+
+  }
+
+  .container {
+      width: 100%;
+      height: 100vh;
+
+      overflow-y: scroll;
   }
